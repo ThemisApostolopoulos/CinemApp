@@ -52,3 +52,8 @@ Non functional system requirements in the following link: [click here](docs/mark
 
 You can find the class, activity, sequence diagrams as well as the coverage of tests in the following link: [click here](docs/markdown/design.md).
 
+## Some screenshots of the app
+![Front page](/screenshots/Screenshot_1764.png)
+
+![Rating page](/screenshots/Screenshot_1763.png)
+
